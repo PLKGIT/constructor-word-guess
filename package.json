@@ -1,0 +1,24 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript Homework #9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLKGIT/constructor-word-guess.git"
+  },
+  "author": "Pam Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLKGIT/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/PLKGIT/constructor-word-guess#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4",
+    "prompt": "^1.0.0"
+  }
+}
