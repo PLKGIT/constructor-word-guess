@@ -31,7 +31,9 @@ The Word Guess game contains the following files and features:
 The Word Guess game is launched by running "node index" on the command line.
 
 ### Word Guess Results
-TBD
+Constructor Word Guess is a command line application; accordingly, it cannot be run in a web browser.  See below for a video demonstrating the working application. 
+
+![results](images/constructor_word_game.gif)
 
 ## Completed Assignment
 
