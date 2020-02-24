@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/PLKGIT/constructor-word-guess#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
     "inquirer": "^7.0.4",
-    "prompt": "^1.0.0"
   }
 }
