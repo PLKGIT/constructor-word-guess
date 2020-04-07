@@ -1,5 +1,5 @@
 # Advanced JavaScript Assignment: Constructor Word Guess
-Advanced JavaScript Homework #9
+Homework #9
 
 ## Overview
 Create a Word Guess command-line game using constructor functions.

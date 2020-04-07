@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/PLKGIT/constructor-word-guess#readme",
   "dependencies": {
-    "inquirer": "^7.0.4",
+    "inquirer": "^7.0.4"
   }
 }
