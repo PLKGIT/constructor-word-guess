@@ -1,8 +1,9 @@
 # Advanced JavaScript Assignment: Constructor Word Guess
-Homework #9
+
+![Constructor Word Guess](images/constructor_word_game.gif)
 
 ## Overview
-Create a Word Guess command-line game using constructor functions.
+Command-line Word Guess game using constructor functions.
 
 ### Features
 The Word Guess game contains the following files and features:
@@ -23,27 +24,22 @@ The Word Guess game contains the following files and features:
   * The game ends if the user runs out of guesses (10) or the user guesses all of the game letters before they run out of guesses.
   * A new game starts automatically after a win or loss.
 
-### Technologies Used
+### Technologies
   * Node JS v12.13.0
   * Inquirer Node Package Manager (NPM) v7.0.4"
 
-### Using Constructor Word Guess
-The Word Guess game is launched by running "node index" on the command line.
+### Playing the Constructor Word Guess
+The game is launched by running "node index" on the command line.
 
 ### Word Guess Results
 Constructor Word Guess is a command line application; accordingly, it cannot be run in a web browser.  See below for a video demonstrating the working application. 
 
-![results](images/constructor_word_game.gif)
 
-## Completed Assignment
 
-### Due
-Sunday, February 23, 2020
+## Completed
 
-### Student
+### Developer
 Pam Kelly at [esq.kelly@gmail.com](mailto:esq.kelly@gmail.com)
-
-Full-Stack Coding Bootcamp through UCB Extension
 
 ### Completed Assignment URLs
 #### Github repository
@@ -52,7 +48,5 @@ Full-Stack Coding Bootcamp through UCB Extension
 [README Link](https://plkgit.github.io/constructor-word-guess/) at https://plkgit.github.io/constructor-word-guess/
 #### Word Guess on Portfolios
 [Professional Porfolio](https://www.pamkelly.com/portdev.html) at https://www.pamkelly.com/portdev.html
-[Bootstrap Portfolio](https://plkgit.github.io/Bootstrap-Portfolio/portfolio.html) at https://plkgit.github.io/Bootstrap-Portfolio/portfolio.html
 
-
-Copyright &copy; 2020 Pamela L. Kelly
+Copyright &copy; 2019-2020 Pamela L. Kelly
