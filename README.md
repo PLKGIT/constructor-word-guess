@@ -3,7 +3,7 @@
 ![Constructor Word Guess](images/constructor_word_game.gif)
 
 ## Overview
-Command-line Word Guess game using constructor functions.
+Command-line Word Guess game using constructor functions.  
 
 ### Features
 The Word Guess game contains the following files and features:
@@ -29,24 +29,21 @@ The Word Guess game contains the following files and features:
   * Inquirer Node Package Manager (NPM) v7.0.4"
 
 ### Playing the Constructor Word Guess
-The game is launched by running "node index" on the command line.
+  * The game is launched by running "node index" on the command line.  
+  * Dashes appear on the screen in place of each letter of the word to be guessed.  
+  * As the user types a letter on the keyboard, correct letters are revealed in place of the dashes.
+  * If the guess is incorrect, the number of guesses is reduced by 1 and a message appears indicating that the letter chosen was incorrect as well as how many available guesses remain.
+  * The game ends when the user guesses all letters in the word or the user runs out of guesses
+  * A new game begins whenever the current game ends
 
-### Word Guess Results
-Constructor Word Guess is a command line application; accordingly, it cannot be run in a web browser.  See below for a video demonstrating the working application. 
-
-
-
-## Completed
-
-### Developer
+## Developer
 Pam Kelly at [esq.kelly@gmail.com](mailto:esq.kelly@gmail.com)
 
-### Completed Assignment URLs
-#### Github repository
+### Github repository
 [Github Link](https://github.com/PLKGIT/constructor-word-guess) at https://github.com/PLKGIT/constructor-word-guess
-#### Display Results
+### Display Results
 [README Link](https://plkgit.github.io/constructor-word-guess/) at https://plkgit.github.io/constructor-word-guess/
-#### Word Guess on Portfolios
+### Word Guess on Portfolio
 [Professional Porfolio](https://www.pamkelly.com/portdev.html) at https://www.pamkelly.com/portdev.html
 
 Copyright &copy; 2019-2020 Pamela L. Kelly
