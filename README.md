@@ -5,7 +5,6 @@ Command-line Word Guess game using constructor functions.
 
 ![Constructor Word Guess](images/constructor_word_game.gif)
 
-
 ### Playing the Constructor Word Guess
   * The game is launched by running "node index" on the command line.  
   * Dashes appear on the screen in place of each letter of the word to be guessed.  
@@ -44,8 +43,8 @@ The Word Guess game contains the following files and features:
 Pam Kelly at [esq.kelly@gmail.com](mailto:esq.kelly@gmail.com)
 
 ### GitHub
-[Github Link](https://github.com/PLKGIT/constructor-word-guess) at https://github.com/PLKGIT/constructor-word-guess
-### Deployed
+[Github](https://github.com/PLKGIT/constructor-word-guess) at https://github.com/PLKGIT/constructor-word-guess
+### Deployed Application (Example)
 [README Link](https://plkgit.github.io/constructor-word-guess/) at https://plkgit.github.io/constructor-word-guess/
 ### Portfolio
 [Professional Porfolio](https://www.pamkelly.com/portdev.html) at https://www.pamkelly.com/portdev.html
